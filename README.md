@@ -1,6 +1,6 @@
 # analog-clock
 User should be able to input hours and minutes of the analogue clock. Program must calculate lesser angle in degrees between hours arrow and minutes arrow and provide output in the console window.
-
+---
 ###
 When you run this program, it will prompt the user to input the hours and minutes on the clock. The program will then calculate the angle between the hour and minute hands, and output the result in the console window.
 
